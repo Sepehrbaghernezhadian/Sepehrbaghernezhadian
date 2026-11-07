@@ -17,9 +17,9 @@ I build web applications with **Django**, from user authentication and shopping 
 
 ## 🚀 Featured Projects
 
-- 🛍️ [**hangower-shop**](https://github.com/USERNAME/hangower-shop): Clothing e-commerce store (Django, PostgreSQL, Cloudinary)
-- 🛒 [**trap_shop**](https://github.com/USERNAME/trap_shop): Online clothing store with cart and product catalog
-- 📄 [**rezomeh_ir**](https://github.com/USERNAME/rezomeh_ir): Personal resume website
+- 🛍️ [**Game_Shop**](https://game-shopp.onrender.com/): Clothing e-commerce store (Django, PostgreSQL, Cloudinary)
+- 🛒 [**hangower-shop**](https://hangower-shop.onrender.com/): Online clothing store with cart and product catalog
+- 📄 [**restoran_site**](https://restoran-r3hk.onrender.com/): Personal resume website
 
 ## 📫 Contact
 
