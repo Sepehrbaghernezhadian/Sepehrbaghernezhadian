@@ -24,4 +24,4 @@ I build web applications with **Django**, from user authentication and shopping 
 ## 📫 Contact
 
 - 🌐 Website: [sepehrbaghernezhadian.ir](https://sepehrbaghernezhadian.ir)
-- 💼 GitHub: [@USERNAME](https://github.com/USERNAME)
+- 💼 GitHub: [@USERNAME](https://github.com/Sepehrbaghernezhadian)
